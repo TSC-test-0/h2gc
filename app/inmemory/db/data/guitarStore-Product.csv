@@ -1,0 +1,6 @@
+ID;productName;productDescription;price;targetAudience_ID;warehouseStock_ID
+d105d1a8-de10-4ea4-8d37-87000aacf3dd;Fender Stratocaster;Classic electric guitar with versatile sound;1200.00;bf232345-62af-4475-a986-9ece0570e17b;1933dc2e-14f3-44fc-8779-94fc57f3c5c9
+781be816-d14d-4948-a3e3-51fe0c68c98f;Gibson Les Paul;Iconic guitar with a warm, full tone;2500.00;23145527-1607-4491-8f0b-59ab524900ec;4dcc4746-86ce-4c12-8983-d1eeed9760b4
+26daa7e8-1bc2-4f0a-96a1-26399345fb7c;Yamaha FG800;Affordable and reliable acoustic guitar;300.00;51ed62ec-eebb-4ce8-b1a5-905db043d56c;a6aa5bd3-b475-440d-9cfd-30337e2a0f16
+d99fc531-bc7b-45ff-97f5-831bca1e6f8a;Ibanez RG550;High-performance guitar for rock and metal genres;800.00;71e001e0-917b-422c-bc3d-c2117f415411;23c6f931-71ab-4f9d-aff7-036f0217d7ec
+892457d4-19ad-4732-9177-6ba47ee95f9d;Martin D-28;Premium acoustic guitar with a rich, full-bodied sound;3000.00;969cb149-3bb1-458b-a859-f451bc9a1f1b;3aea47e8-6df4-4706-a36f-2996ea48c492
